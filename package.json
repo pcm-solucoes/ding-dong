@@ -8,6 +8,9 @@
     "type": "git",
     "url": "git://github.com/pcm-solucoes/ding-dong.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "main": "lib/",
   "scripts": {
     "test": "mocha -R tap --exit",
