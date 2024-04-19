@@ -2,7 +2,7 @@
   "author": "junio hyago <juniohyago@gmail.com>",
   "name": "@pcm-solucoes/ding-dong-pcm",
   "description": "Write AGI-server quickly! (AGI - Asterisk Gateway Interface)",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "license": "MIT",
   "repository": {
     "type": "git",

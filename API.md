@@ -24,6 +24,8 @@ details https://wiki.asterisk.org/wiki/display/AST/Asterisk+13+AGICommand_contro
 
 ### context.databaseDeltree(key)
 
+### context.conn
+
 ### context.databaseGet
 
 ### context.databasePut
