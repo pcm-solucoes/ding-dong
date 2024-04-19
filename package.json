@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/pcm-solucoes/ding-dong.git"
+    "url": "git://github.com/pcm-solucoes/ding-dong-pcm.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
